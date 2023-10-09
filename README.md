@@ -2,5 +2,5 @@
 Aqui são meus estudos feito na dio.me!!
 
 ## LINKS!
-[Links dos cursos e aprendizagem] 
+[Links dos cursos e aprendizagem] (https://www.youtube.com/)
 
